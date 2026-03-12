@@ -179,4 +179,4 @@ Everything runs 100% inside your browser:
 
 ---
 
-Built with ❤️ for Girish — Father of SEO
+Built with ❤️ from Girish — Father of SEO
